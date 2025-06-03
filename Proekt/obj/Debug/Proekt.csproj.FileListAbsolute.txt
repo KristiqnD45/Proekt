@@ -1,0 +1,16 @@
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\EntityFramework.dll
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\EntityFramework.xml
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.csproj.AssemblyReference.cache
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.cache
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.csproj.CoreCompileInputs.cache
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.csproj.Up2Date
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.exe
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.pdb
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.exe.config
+C:\Users\1212-2\Documents\Kristiqn11a\Proekt\Proekt\obj\Debug\Proekt.Migrations.testmigrationKristiqn.resources
