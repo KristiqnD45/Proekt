@@ -13,8 +13,11 @@ namespace Proekt.Data
 
         public string Description { get; set; }
         public decimal Price { get; set; }
-        public string Type { get; set; }
 
-        public Souvenir Souvenirs { get; set; }
+        public string Type { get; set; }
+        public int TypeId { get; set; } 
+
+        public SouvenirType SouvenirTypes { get; set; }
+        public int SouvenirTypeId { get; internal set; }
     }
 }

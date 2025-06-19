@@ -10,6 +10,6 @@ namespace Proekt.Data
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public ICollection<SouvenirType> SouvenirTypes { get; set; }
+        public ICollection<Souvenir> Souvenirs { get; set; }
     }
 }
